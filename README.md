@@ -1,4 +1,4 @@
-# Admixture_analysis
+# Quantification of Introgression
 
 # Panel introgression into native European subspecies
 
