@@ -2,7 +2,7 @@
 
 # Panel introgression into native European subspecies
 
-This repository contains two tools that are described in Huml et al 2026 'Extension of current tools for the accurate measurement of introgression into native European subspecies from all major lineages of A. mellifera’.
+This repository contains two tools that are described in Huml et al 2026 'BEEHYBE v1.0. A new comprehensive toolExtension of current tools  for the accurate measurement of introgression into native European subspecies from all major lineages of A. mellifera’. By downloading the corresponding files the user automatically agrees to the licence agreement detailed in license.md provided.
 
 The first tool measures genetic proportions across 6 reference clusters (A-lineage, M-lineage, O-lineage, Y-lineage and A. m. carnica and A. m. ligustica within the C-lineage) using the reference file Refs1261_K6_supervised, this includes 1261 reference individuals, using the run_Admixture_parallel.mpi script.
 
