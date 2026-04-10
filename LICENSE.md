@@ -95,10 +95,10 @@ For licensing inquiries, requests for commercial use, or questions regarding col
 
 **Apigenix**
 
-Institute for Beegenetics
-CH-2513 Twann
-Switzerland
-email: info@apigenix.com
+Institute for Beegenetics \
+CH-2513 Twann \
+Switzerland \
+email: info@apigenix.com \
 
 ---
 
