@@ -2,17 +2,18 @@
 
 # Panel introgression into native European subspecies
 
-This repository contains two tools that are described in Huml et al 2026 'BEEHYBE v1.0. A new comprehensive toolExtension of current tools  for the accurate measurement of introgression into native European subspecies from all major lineages of A. mellifera’. By downloading the corresponding files the user automatically agrees to the licence agreement detailed in license.md provided.
+This repository contains two tools that are described in Huml et al 2026 'BEEHYBE v1.0. A new comprehensive toolExtension of current tools  for the accurate measurement of introgression into native European subspecies from all major lineages of A. mellifera’. Please note the scripts and resources provided here are for non-commercial use only and by downloading the corresponding files the user automatically agrees to the licence agreement detailed in license.md provided.
 
 The first tool measures genetic proportions across 6 reference clusters (A-lineage, M-lineage, O-lineage, Y-lineage and A. m. carnica and A. m. ligustica within the C-lineage) using the reference file Refs1261_K6_supervised, this includes 1261 reference individuals, using the run_Admixture_parallel.mpi script.
 
 The second tool is to classify a sample to any of the 11 more subspecies specific clusters (A.m.jemenitica, A.m.intermissa sahariensis, A.m.ruttneri, A.m.lamarckii,	A-lineage_other, A.m.iberiensis, A.m.carnica,	A.m.ligustica, A.m.mellifera,	O-lineage and	A.m.macedonica) using the Refs_K11_unsupervised_classification.vcf.gz reference file and the run_Admixture_parallel_K11_unsupervised.mpi script.
 
-Please note the scripts and resources provided here are for non-commercial use only. The authors of this paper and GitHub are not affiliated with vcftools, Admixture, Plink or parallel \
+The authors of this paper and GitHub are not affiliated with vcftools, Admixture, Plink or parallel \
+
 Required programs: \
 parallel v. 20240822 \
 vcftools v. 1.16 \
-plink v. 1.9 \
+plink v. 1.9 
 
 
 ## Data Preparation
