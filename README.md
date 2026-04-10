@@ -1,6 +1,6 @@
-# Quantification of Introgression
+# BEEHYBE v1.0
 
-# Panel introgression into native European subspecies
+# SNP-Panel including reference data for the measurement of introgression into native European subspecies
 
 This repository contains two tools that are described in Huml et al 2026 'BEEHYBE v1.0. A new comprehensive toolExtension of current tools  for the accurate measurement of introgression into native European subspecies from all major lineages of A. mellifera’. Please note the scripts and resources provided here are for non-commercial use only and by downloading the corresponding files the user automatically agrees to the licence agreement detailed in license.md provided.
 
